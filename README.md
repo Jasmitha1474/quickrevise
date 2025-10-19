@@ -8,7 +8,13 @@ It’s built with **React + Vite** (frontend) and **Supabase** (backend database
 ---
 
 ##  Live Demo
-[👉 View Quick Revise (Deployed on Vercel)](https://quickrevise.vercel.app)
+
+## Live Preview
+You can explore the full working web app here:
+👉 [Quick Revise on Vercel](https://quickrevise.vercel.app)
+
+(Screenshots not included since the live app is deployed.)
+
 
 ---
 
@@ -37,12 +43,13 @@ It’s built with **React + Vite** (frontend) and **Supabase** (backend database
 ##  Setup Instructions
 
 ### 1️⃣ Clone the repo
-```bash
+#```bash
 git clone https://github.com/<your-username>/quickrevise.git
 cd quickrevise
 
+
 ### 2️⃣ Install dependencies
-```bash
+#```bash
 npm install
 
 ### 3️⃣ Add your Supabase credentials
@@ -68,7 +75,7 @@ npm run dev
 
 ### 🔐 Row-Level Security Policies
 
-```sql
+#```sql
 create policy "Allow public read"
 on "public"."flashcards"
 for select
