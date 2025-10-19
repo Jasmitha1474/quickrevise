@@ -3,7 +3,7 @@
 **Quick Revise** is a pastel-themed full-stack web app that helps students quickly revise topics before exams using interactive flashcards.  
 It’s built with **React + Vite** (frontend) and **Supabase** (backend database).  
 
-✨ The UI is inspired by real spiral notebooks — cute, girly-pop colors (rose, lavender, aqua) with animated note cards.
+✨ The UI is inspired by real spiral notebooks with animated note cards.
 
 ---
 
