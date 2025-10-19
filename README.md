@@ -1,4 +1,4 @@
-# Quick Revise – Notebook Style Flashcard Web App
+# 📒 Quick Revise – Notebook Style Flashcard Web App
 
 **Quick Revise** is a pastel-themed full-stack web app that helps students quickly revise topics before exams using interactive flashcards.  
 It’s built with **React + Vite** (frontend) and **Supabase** (backend database).  
@@ -7,9 +7,8 @@ It’s built with **React + Vite** (frontend) and **Supabase** (backend database
 
 ---
 
-##  Live Demo
 
-## Live Preview
+## 🎬 Live Preview
 You can explore the full working web app here:
 👉 [Quick Revise on Vercel](https://quickrevise.vercel.app)
 
@@ -18,7 +17,7 @@ You can explore the full working web app here:
 
 ---
 
-##  Features
+## 🌸 Features
 -  **Notebook-style pastel design** (spiral-hole cards with rounded edges)
 -  **Multiple subjects** (OOPs, OS, COA, etc.)
 -  **Add new subjects** directly from the home screen  
@@ -30,7 +29,7 @@ You can explore the full working web app here:
 
 ---
 
-##  Tech Stack
+## 🧩 Tech Stack
 | Layer | Technology | Purpose |
 |--------|-------------|----------|
 | **Frontend** | React + Vite + Tailwind CSS | Interactive pastel UI |
@@ -40,7 +39,7 @@ You can explore the full working web app here:
 
 ---
 
-##  Setup Instructions
+## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repo
 #```bash
@@ -86,7 +85,7 @@ on "public"."flashcards"
 for insert
 with check (true);
 
-##  Future Enhancements
+## 🪄 Future Enhancements
 -  Edit / Delete flashcards per subject  
 -  Supabase Auth login  
 -  Mobile-first layout  
